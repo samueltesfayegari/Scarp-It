@@ -1,2 +1,2 @@
-# Scarp-It
-Scrap with Sellenium, Requests and BeautifulSoap
+# Scarpe-It
+Scrape with Sellenium, Requests and BeautifulSoap
